@@ -1,0 +1,47 @@
+nfl notes
+
+
+Cleaning
+ignore all no plays
+distinguish between going for it and punting/field goals
+
+Punt          2429
+Field Goal     909
+Pass           314
+No Play        174
+Run            163
+Sack            17
+QB Kneel         2
+Timeout          1
+
+
+others -1
+punt 0 
+field goal 1
+went for it 2
+
+Overall notes
+Average Distance to the 4th down
+- Distribution
+
+
+* Average Field Position
+- Distribution
+- 
+
+Time Left
+- Distribution
+- By Quarter?
+Pass or Run
+Complete the 4th down vs. fail 4th down
+
+Team Breakdowns
+every team how many posessions did they have
+how many times did they have 4th down
+how many times did they convert 4th down
+5 teams that converted the most on 4th down
+5 teams that converted the least on 4th down
+
+what kind of 
+
+Pass or run on 4th down?
